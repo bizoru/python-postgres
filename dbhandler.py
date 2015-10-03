@@ -1,6 +1,11 @@
 import datetime
 
 # Esta es la libreria que necesitamos para conectar con postgres
+
+"""
+Para windows encontraremos la libreria aqui: http://www.stickpeople.com/projects/python/win-psycopg/
+"""
+
 import psycopg2
 import psycopg2.extras
 import sys
